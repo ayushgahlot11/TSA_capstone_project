@@ -1,0 +1,53 @@
+Stock,Model,RMSE,MAPE,Dir_Accuracy
+SBIN.NS,"ARIMA (2, 1, 2)",88.53,0.0717,Correct
+SBIN.NS,Exp Smoothing,57.19,0.05,Correct
+J&KBANK.NS,"ARIMA (2, 1, 2)",8.45,0.075,Correct
+J&KBANK.NS,Exp Smoothing,15.88,0.1447,Incorrect
+BANKBARODA.NS,"ARIMA (0, 1, 1)",25.29,0.0723,Incorrect
+BANKBARODA.NS,Exp Smoothing,16.08,0.053,Correct
+POLICYBZR.NS,"ARIMA (2, 1, 2)",69.83,0.0301,Incorrect
+POLICYBZR.NS,Exp Smoothing,93.05,0.0418,Correct
+OFSS.NS,"ARIMA (1, 1, 1)",491.86,0.0514,Correct
+OFSS.NS,Exp Smoothing,870.32,0.0905,Incorrect
+MANKIND.NS,"ARIMA (2, 1, 1)",207.22,0.0731,Correct
+MANKIND.NS,Exp Smoothing,202.02,0.0752,Incorrect
+NGLFINE.NS,"ARIMA (2, 1, 2)",265.42,0.1755,Incorrect
+NGLFINE.NS,Exp Smoothing,284.29,0.1877,Incorrect
+SPARC.NS,"ARIMA (2, 1, 0)",21.39,0.1404,Correct
+SPARC.NS,Exp Smoothing,19.35,0.127,Correct
+NATCOPHARM.NS,"ARIMA (1, 1, 0)",76.9,0.0772,Incorrect
+NATCOPHARM.NS,Exp Smoothing,75.81,0.0759,Correct
+CARYSIL.NS,"ARIMA (2, 1, 0)",67.63,0.0561,Incorrect
+CARYSIL.NS,Exp Smoothing,49.12,0.042,Correct
+BAJAJCON.NS,"ARIMA (2, 1, 2)",42.57,0.1452,Incorrect
+BAJAJCON.NS,Exp Smoothing,41.57,0.1417,Correct
+BAJAJ-AUTO.NS,"ARIMA (2, 1, 2)",524.76,0.0519,Incorrect
+BAJAJ-AUTO.NS,Exp Smoothing,260.91,0.0233,Correct
+BHARATFORG.NS,"ARIMA (0, 1, 0)",102.16,0.07,Incorrect
+BHARATFORG.NS,Exp Smoothing,95.79,0.0681,Correct
+ASIANENE.NS,"ARIMA (2, 1, 2)",40.84,0.0984,Incorrect
+ASIANENE.NS,Exp Smoothing,37.1,0.0939,Incorrect
+LT.NS,"ARIMA (2, 1, 2)",228.32,0.0472,Correct
+LT.NS,Exp Smoothing,139.27,0.0338,Correct
+SBILIFE.NS,"ARIMA (2, 1, 2)",90.45,0.039,Incorrect
+SBILIFE.NS,Exp Smoothing,72.1,0.0348,Correct
+STARHEALTH.NS,"ARIMA (2, 1, 1)",43.5,0.0749,Correct
+STARHEALTH.NS,Exp Smoothing,73.21,0.1325,Incorrect
+GPIL.NS,"ARIMA (0, 1, 0)",58.54,0.2021,Incorrect
+GPIL.NS,Exp Smoothing,54.82,0.188,Correct
+JSWSTEEL.NS,"ARIMA (1, 1, 0)",95.51,0.0693,Correct
+JSWSTEEL.NS,Exp Smoothing,59.0,0.0392,Correct
+TATASTEEL.NS,"ARIMA (0, 1, 0)",10.42,0.0488,Incorrect
+TATASTEEL.NS,Exp Smoothing,6.0,0.0282,Correct
+ADANIPORTS.NS,"ARIMA (0, 1, 1)",61.53,0.0352,Incorrect
+ADANIPORTS.NS,Exp Smoothing,85.8,0.0524,Correct
+NYKAA.NS,"ARIMA (2, 1, 2)",38.76,0.1335,Correct
+NYKAA.NS,Exp Smoothing,48.72,0.168,Incorrect
+TATACOMM.NS,"ARIMA (0, 1, 0)",113.52,0.0549,Incorrect
+TATACOMM.NS,Exp Smoothing,101.58,0.0479,Correct
+IDEA.NS,"ARIMA (0, 1, 1)",2.05,0.1622,Incorrect
+IDEA.NS,Exp Smoothing,2.27,0.1764,Incorrect
+ADANIPOWER.NS,"ARIMA (2, 1, 2)",24.93,0.1282,Correct
+ADANIPOWER.NS,Exp Smoothing,18.99,0.0953,Correct
+ADANIGREEN.NS,"ARIMA (0, 1, 1)",50.55,0.0389,Incorrect
+ADANIGREEN.NS,Exp Smoothing,52.27,0.0411,Correct
